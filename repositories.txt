@@ -1,0 +1,4 @@
+https://github.com/mariqochi/C_book_manager.git
+https://github.com/mariqochi/Guess_The_Number.git
+https://github.com/mariqochi/ATM.git
+https://github.com/mariqochi/Calculator.git
